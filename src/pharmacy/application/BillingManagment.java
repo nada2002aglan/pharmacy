@@ -22,7 +22,7 @@ public class BillingManagment extends javax.swing.JFrame {
         initComponents();
         billHeader();    
         
-        Con = Driverm ;
+        //Maha
     }
     
     private void billHeader(){
